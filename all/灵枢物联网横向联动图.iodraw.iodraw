@@ -16,10 +16,10 @@
         <mxCell id="DaefGJQBXtmR2fgnzXVl-4" value="灵枢OS中枢" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="220" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DaefGJQBXtmR2fgnzXVl-5" value="数字孪生体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DaefGJQBXtmR2fgnzXVl-5" value="数字孪生体" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="400" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DaefGJQBXtmR2fgnzXVl-6" value="一键联动：报警触发警力调度+视频追踪-门禁锁闭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DaefGJQBXtmR2fgnzXVl-6" value="一键联动：报警触发警力调度+视频追踪-门禁锁闭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
