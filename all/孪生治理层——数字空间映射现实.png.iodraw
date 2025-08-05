@@ -19,7 +19,7 @@
         <mxCell id="_8smq1-l9r9ugMBoMCDb-5" value="&lt;font style=&quot;background-color: rgb(229, 204, 255); font-size: 18px;&quot;&gt;周界雷达&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="-480" y="-760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_8smq1-l9r9ugMBoMCDb-6" value="&lt;font style=&quot;background-color: rgb(229, 204, 255); font-size: 18px;&quot;&gt;周界雷达&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e5ccff;" vertex="1" parent="1">
+        <mxCell id="_8smq1-l9r9ugMBoMCDb-6" value="&lt;font style=&quot;background-color: rgb(229, 204, 255); font-size: 18px;&quot;&gt;自动预案&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="-480" y="-860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_8smq1-l9r9ugMBoMCDb-7" value="&lt;font style=&quot;background-color: rgb(229, 204, 255); font-size: 18px;&quot;&gt;AI行为识别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e5ccff;" vertex="1" parent="1">
