@@ -13,6 +13,9 @@
         <mxCell id="DaefGJQBXtmR2fgnzXVl-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;生命体征仪&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DaefGJQBXtmR2fgnzXVl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaefGJQBXtmR2fgnzXVl-3" target="DaefGJQBXtmR2fgnzXVl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DaefGJQBXtmR2fgnzXVl-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;门禁控制器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
