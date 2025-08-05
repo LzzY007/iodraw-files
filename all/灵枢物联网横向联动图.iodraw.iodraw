@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DaefGJQBXtmR2fgnzXVl-1" value="&lt;font style=&quot;font-size: 24px; background-color: rgb(229, 204, 255);&quot;&gt;周界雷达&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e5ccff;" vertex="1" parent="1">
+        <mxCell id="DaefGJQBXtmR2fgnzXVl-1" value="&lt;font style=&quot;background-color: rgb(229, 204, 255); font-size: 18px;&quot;&gt;周界雷达&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaefGJQBXtmR2fgnzXVl-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;生命体征仪&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DaefGJQBXtmR2fgnzXVl-3" value="门禁控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e5ccff;" vertex="1" parent="1">
+        <mxCell id="DaefGJQBXtmR2fgnzXVl-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;门禁控制器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaefGJQBXtmR2fgnzXVl-4" value="灵枢OS中枢" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5ccff;" vertex="1" parent="1">
