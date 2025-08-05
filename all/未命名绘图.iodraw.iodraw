@@ -1,0 +1,99 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="ZWlwIVRO5ivsnFsw1o90">
+    <mxGraphModel dx="751" dy="316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="111" y="324" width="280" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="324" width="280" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-58" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.815;exitY=0.399;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jj5bmbJQlADs0YRQa6vj-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-7" y="462" as="sourcePoint" />
+            <mxPoint x="232" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="248" y="421" />
+              <mxPoint x="227" y="389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="114" y="332.5" width="267" height="253" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-55" value="纹理提取区域2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-59">
+          <mxGeometry y="60.5" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-35" value="" style="shape=mxgraph.signs.animals.dog_on_leash;html=1;pointerEvents=1;fillColor=#f5f5f5;strokeColor=#666666;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;flipH=1;fontColor=#333333;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-59">
+          <mxGeometry x="22" y="114.5" width="120" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-37" value="" style="shape=mxgraph.signs.people.walking;html=1;pointerEvents=1;fillColor=#f5f5f5;strokeColor=#666666;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontColor=#333333;flipH=1;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-59">
+          <mxGeometry x="137" width="130" height="253" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-42" value="破坏区域" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-59">
+          <mxGeometry x="4" y="86.5" width="106" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-43" value="破坏区域" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-59">
+          <mxGeometry x="128" y="32.5" width="106" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-57" value="纹理提取区域1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-59">
+          <mxGeometry x="63" y="2.5" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-56" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.875;exitY=0.287;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.154;entryY=0.906;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jj5bmbJQlADs0YRQa6vj-59" source="jj5bmbJQlADs0YRQa6vj-35" target="jj5bmbJQlADs0YRQa6vj-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-151" y="201.5" as="sourcePoint" />
+            <mxPoint x="-101" y="151.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4" y="145.5" />
+              <mxPoint x="7" y="108.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="412" y="332" width="267" height="253" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-61" value="纹理提取区域2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-60">
+          <mxGeometry y="56.5" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-62" value="" style="shape=mxgraph.signs.animals.dog_on_leash;html=1;pointerEvents=1;fillColor=#f5f5f5;strokeColor=#666666;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;flipH=1;fontColor=#333333;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-60">
+          <mxGeometry x="22" y="114.5" width="120" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-63" value="" style="shape=mxgraph.signs.people.walking;html=1;pointerEvents=1;fillColor=#f5f5f5;strokeColor=#666666;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontColor=#333333;flipH=1;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-60">
+          <mxGeometry x="137" width="130" height="253" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-64" value="破坏区域" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-60">
+          <mxGeometry x="4" y="86.5" width="106" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-65" value="破坏区域" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-60">
+          <mxGeometry x="128" y="32.5" width="106" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-66" value="纹理提取区域1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="jj5bmbJQlADs0YRQa6vj-60">
+          <mxGeometry x="63" y="2.5" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.443;entryY=0.274;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="jj5bmbJQlADs0YRQa6vj-60" source="jj5bmbJQlADs0YRQa6vj-61" target="jj5bmbJQlADs0YRQa6vj-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-424" y="91" as="sourcePoint" />
+            <mxPoint x="-374" y="41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.434;entryY=0.221;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.352;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jj5bmbJQlADs0YRQa6vj-60" source="jj5bmbJQlADs0YRQa6vj-66" target="jj5bmbJQlADs0YRQa6vj-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-478" y="77" as="sourcePoint" />
+            <mxPoint x="-428" y="27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.255;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jj5bmbJQlADs0YRQa6vj-66" target="jj5bmbJQlADs0YRQa6vj-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-71" value="原始图像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="195.5" y="594" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jj5bmbJQlADs0YRQa6vj-72" value="修复后的图像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="479.5" y="594" width="132" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
