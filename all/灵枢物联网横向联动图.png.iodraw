@@ -37,7 +37,7 @@
         <mxCell id="DaefGJQBXtmR2fgnzXVl-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一键联动：报警触发警力调度+视频追踪-门禁锁闭&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5ccff;" parent="1" vertex="1">
           <mxGeometry x="590" y="210" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L-YA2QRxbYvT1nZ2Vcfr-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#007FFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.globe;" vertex="1" parent="1">
+        <mxCell id="L-YA2QRxbYvT1nZ2Vcfr-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.globe;" vertex="1" parent="1">
           <mxGeometry y="507" width="28.000000000000004" height="28.000000000000004" as="geometry" />
         </mxCell>
       </root>
