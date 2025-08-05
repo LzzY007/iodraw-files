@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaefGJQBXtmR2fgnzXVl-4" value="灵枢OS中枢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaefGJQBXtmR2fgnzXVl-5" value="数字孪生体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="220" width="120" height="60" as="geometry" />
