@@ -7,6 +7,9 @@
         <mxCell id="_8smq1-l9r9ugMBoMCDb-1" value="&lt;font style=&quot;background-color: rgb(229, 204, 255); font-size: 18px;&quot;&gt;TwinVision孪生体&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="-480" y="-1060" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_8smq1-l9r9ugMBoMCDb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="_8smq1-l9r9ugMBoMCDb-2" target="_8smq1-l9r9ugMBoMCDb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_8smq1-l9r9ugMBoMCDb-2" value="&lt;font style=&quot;background-color: rgb(229, 204, 255); font-size: 18px;&quot;&gt;门禁系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e5ccff;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-1160" width="120" height="60" as="geometry" />
         </mxCell>
